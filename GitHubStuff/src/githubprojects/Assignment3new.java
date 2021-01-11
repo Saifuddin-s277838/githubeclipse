@@ -1,6 +1,6 @@
 package githubprojects;
 import java.util.Scanner;
-public class Assignment3 {
+public class Assignment3new {
 
 	public static void main(String[] args) {
 		
@@ -37,7 +37,8 @@ public class Assignment3 {
 			System.out.println("Ic number: " + ic);
 			System.out.println("Gender: " + gender);
 			System.out.println("HP: " + phone);
-			System.out.println("Birthday: " + day +" "+ month +" "+ year);			
+			System.out.println("Birthday: " + day +" "+ month +" "+ year);	
+						
 		}
 		
 		public static void printShop() {
@@ -159,6 +160,7 @@ public class Assignment3 {
 			}
 			System.out.println(" ");
 			
+						
 	}
 
 }
